@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a current retail store manager transitioning into cybersecurity while completing my B.S. in Information Technology at UMGC. Managing people and operations under pressure has taught me how to communicate clearly, solve problems methodically, and stay calm when things break — skills I apply daily in my homelab. I believe education is the best legacy, a principle I carried from Nigeria and have never let go. I do not know everything and never will — but I am committed to never stopping learning.
+I am a current retail store manager transitioning into cybersecurity while completing my B.S. in Information Technology at UMGC. Managing people and operations under pressure has taught me how to communicate clearly, solve problems methodically, and stay calm when things break, skills I apply daily in my homelab. I believe education is the best legacy, a principle I carried from Nigeria and have never let go. I do not know everything and never will, but I am committed to never stopping learning.
 
 ---
 
@@ -20,7 +20,7 @@ I am a current retail store manager transitioning into cybersecurity while compl
 | 🎓 **B.S. Information Technology — Cybersecurity** | University of Maryland Global Campus (UMGC) | Graduating Summer 2026 | |
 | ✅ **CompTIA A+** | CompTIA | Earned | [Verify →](https://www.credly.com/badges/21de2c15-9f36-4e4a-9167-53f8e523ab83) |
 | ✅ **CompTIA Network+** | CompTIA | Earned | [Verify →](https://www.credly.com/badges/21de2c15-9f36-4e4a-9167-53f8e523ab83) |
-| ✅ **Google IT Automation with Python** | Google / Coursera | Earned | <!-- TODO: Add link --> |
+| ✅ **Google IT Automation with Python** | Google / Coursera | In Progress 
 | 🟡 **CompTIA Security+** | CompTIA | In Progress (50%) | — |
 
 ---
@@ -56,21 +56,16 @@ Full osTicket deployment on Ubuntu 24.04, integrated with Windows Server 2022 Ac
 
 ---
 
-### <!-- TODO: Add any other projects (TryHackMe rooms, CTF writeups, Python scripts, etc.) -->
-
----
-
 ## Experience
 
 ### Store Manager — Hollister Co.
-*[Start Date] – Present*
+*June 2023 – Present*
 
 - Currently leading daily store operations, staff scheduling, and performance management for a team of [X] employees
 - Resolve customer escalations and complex issues under pressure — directly transferable to IT support ticket triage and end-user communication
 - Maintain accountability for inventory, compliance, and operational documentation — mirrors the discipline required for IT change management and incident logging
 - <!-- TODO: Add 1–2 more bullets if relevant -->
 
-### <!-- TODO: Any other roles prior to Hollister -->
 
 ---
 
@@ -79,21 +74,24 @@ Full osTicket deployment on Ubuntu 24.04, integrated with Windows Server 2022 Ac
 CompTIA A+ and Network+ coursework completed via uCertify with **40+ hands-on virtual labs** at 100% completion across all core exam domains.
 
 **Hardware, Storage & Peripherals**
-![uCertify Labs — Hardware and Peripherals](./assets/Fundamental_Computer_Troubleshooting_lab2.png)
+![uCertify Labs — Hardware and Peripherals] <img width="1229" height="758" alt="image" src="https://github.com/user-attachments/assets/206ae3c4-d800-4836-ad75-16bc6f863a29" />
+
 
 > Installing memory modules, verifying RAM, drive letters, FAT32→NTFS conversion, dynamic disks, storage pools, optical drives, printers (install/share/USB/ink), mobile devices (iOS & Android), laptop components
 
 ---
 
 **Core Hardware & Motherboard Assembly**
-![uCertify Labs — Core Hardware](./assets/Fundamental_Computer_Troubleshooting_lab.png)
+![uCertify Labs — Core Hardware] <img width="1379" height="755" alt="image" src="https://github.com/user-attachments/assets/c6827d7d-69bb-408e-a050-6f4094d51b83" />
+
 
 > Device drivers, USB/hub connections, PCI cards, hardware virtualization, CPU socket, processor installation, expansion cards, SATA power, motherboard assembly, BIOS, NIC installation, full PC assembly, power supply replacement
 
 ---
 
 **Networking, OS & Scripting**
-![uCertify Labs — Networking and OS](./assets/Fundamental_Computer_Troubleshooting_lab3.png)
+![uCertify Labs — Networking and OS] <img width="1227" height="839" alt="image" src="https://github.com/user-attachments/assets/76d6080b-fdb5-4f8c-b176-dd81b096547d" />
+
 
 > VPN setup, IPv4/IPv6 configuration, DNS, DHCP, VLAN creation, network diagnostics (ping, tracert, nslookup, ipconfig, net), EFS file sharing, Windows Registry, Command Prompt, PowerShell scripting
 

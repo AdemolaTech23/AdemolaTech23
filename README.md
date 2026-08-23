@@ -21,7 +21,8 @@ I am a current retail store manager transitioning into cybersecurity while compl
 | ✅ **CompTIA A+** | CompTIA | Earned | [Verify →](https://www.credly.com/badges/21de2c15-9f36-4e4a-9167-53f8e523ab83) |
 | ✅ **CompTIA Network+** | CompTIA | Earned | [Verify →](https://www.credly.com/badges/21de2c15-9f36-4e4a-9167-53f8e523ab83) |
 | ✅ **Google IT Automation with Python** | Google / Coursera | In Progress 
-| 🟡 **CompTIA Security+** | CompTIA | In Progress (50%) | — |
+| 🟡 **CompTIA Security+** | CompTIA | Earned |
+| 🟡 **CompTIA Cysa++** | CompTIA | Earned |
 
 ---
 
